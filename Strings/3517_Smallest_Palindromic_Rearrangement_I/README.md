@@ -1,5 +1,4 @@
 You are given a palindromic string s.
-
 Return the lexicographically smallest palindromic permutation of s.
 
 Example 1:
